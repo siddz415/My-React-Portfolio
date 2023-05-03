@@ -1,14 +1,14 @@
 import React from "react";
-import GithubIcon  from '@material-ui/icons/Github';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import EmailIcon from '@material-ui/icons/Email';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import EmailIcon from '@mui/icons-material/Email';
 import "../styles/Footer.css";
 
 function Footer() {
     return (
         <div className="footer">
             <div className="media">
-                <GithubIcon/>
+                <GitHubIcon/>
                 <LinkedInIcon/>
                 <EmailIcon/>
             </div>

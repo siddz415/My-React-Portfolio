@@ -1,22 +1,22 @@
 import React from 'react';
-// import '../styles/Home.css';
-// import linkedInIcon from "@material-ui/icons/LinkedIn";
-// import emailIcon from '@material-ui/icons/Email';
-// import githubIcon from "@material-ui/icons/GitHub";
-// import myPic from "../assets/myPic.png";
+import '../styles/Home.css';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import EmailIcon from '@mui/icons-material/Email';
+import myPic from "../assets/myPic.png";
 export default function Home() {
   return (
     <div className="home">
     <div className="about">
       <h2> Hi, My Name is Siddharth Dravid</h2>
-      {/* <img src={} alt="pic" /> */}
+      <img src={myPic} alt="pic" />
 
       <div className="prompt">
         <p></p>
         
-        <linkedInIcon />
-        <emailIcon />
-        <githubIcon />
+        <LinkedInIcon />
+        <EmailIcon />
+        <GitHubIcon />
       </div>
     </div>
     <div className="skills">
