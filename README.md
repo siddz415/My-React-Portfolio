@@ -1,8 +1,8 @@
 # My-React-Portfolio
 
 ## Table of Contents
+* [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Screenshot](#screenshot)
 * [links](#links)
 
@@ -19,7 +19,7 @@ A React Portfolio containing all my projects, skills and it also has link to dow
 
 
 ### Screenshot
-![Screenshot of the Site](./assets/react.png) 
+![Screenshot of the Site](00-sandbox\src\assets\react.png)
 
 ### links
 # github
