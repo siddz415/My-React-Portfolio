@@ -1,7 +1,7 @@
 import React from 'react';
-// import "../styles/NavTabs.css";
+import "../styles/Navtabs.css";
 // import reorderIcon from "@material-ui/icons/Reorder"
-// Here we are using object destructuring assignment to pluck off our variables from the props object
+// Here we are using object destructuring to pluck off our variables from the props object
 // We assign them to their own variable names
 
 function NavTabs({ currentPage, handlePageChange }) {

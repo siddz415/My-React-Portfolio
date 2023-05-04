@@ -8,9 +8,9 @@ function Footer() {
     return (
         <div className="footer">
             <div className="media">
-                <GitHubIcon/>
-                <LinkedInIcon/>
-                <EmailIcon/>
+            <a href="https://github.com/siddz415"><GitHubIcon/></a>
+              <a href="https://www.linkedin.com/in/siddharthdravid/"><LinkedInIcon/></a>
+              <a href="mailto:sdravid@yahoo.com"><EmailIcon/></a>
             </div>
         </div>
     )
