@@ -19,8 +19,9 @@ A React Portfolio containing all my projects, skills and it also has link to dow
 
 
 ### Screenshot
-![Screenshot of the Site](00-sandbox\src\assets\react.png)
+![Screenshot of the Site](./00-sandbox/src/assets/react.png)
 
 ### links
 # github
 https://github.com/siddz415/My-React-Portfolio
+https://siddz415.github.io/My-React-Portfolio/
