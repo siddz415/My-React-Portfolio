@@ -1,28 +1,28 @@
 .home {
-    width: 100%;
+    color: #f9fcfc;
     align-items: center;
     font-family: "Arial", sans-serif;
-    color: #f9fcfc;
+    width: 100%;
 }
 
 
 .about {
-    width: 100%;
     height: 100%;
+    align-items: center;
     display: flex;
+    background-color: #1f2833;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    width: 100%;
     text-align: center;
-    background-color: #1f2833;
     padding-top: 50px;
 }
 
 .about h2 {
-    font-family:"Cambria", Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 50px;
     font-size: 80px;
     color: #074d48;
-    height: 50px;
+    font-family:"Cambria", Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .about .pro {
@@ -32,18 +32,18 @@ font-size: 30px
 
 .pro svg {
     font-size: 60px;
-    margin: 5px;
     color: white;
+    margin: 5px;
 }
 
 .skills {
     font-size: 35px;
+    text-align: center;
     width: 100%;
-    display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    display: flex;
 }
 
 .skills h1 {
@@ -71,8 +71,8 @@ font-size: 30px
 
     .about .pro {
         margin-top: 10px;
-        font-size: 20px;
         width: 80%;
+        font-size: 20px;
     }
 
     .skills {

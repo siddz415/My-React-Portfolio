@@ -1,14 +1,10 @@
 import React from 'react';
-// import {useNavigate} from "react-router-dom";
 
-export default function PortfolioItems(props) {
-    // const navigation = useNavigate();
-  
+export default function myPortfolioItems(props) {
     return (
       <div className="portfolioItem"
            onClick={() => {
              if (props.url) {
-            //    navigation(props.url);
              }
            }}>
         <h3>{props.name}</h3>

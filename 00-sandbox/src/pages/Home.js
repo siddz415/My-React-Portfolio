@@ -1,10 +1,7 @@
-import React from 'react';
+import React from 'react';      //imported css and my pic for homepage
 import '../styles/Home.css';
-// import GitHubIcon from '@mui/icons-material/GitHub';
-// import LinkedInIcon from '@mui/icons-material/LinkedIn';
-// import EmailIcon from '@mui/icons-material/Email';
 import myPic from "../assets/myPic.png";
-export default function Home() {
+export default function myHome() {
   return (
     <div className="home">
     <div className="about">
@@ -14,9 +11,6 @@ export default function Home() {
       <div className="pro">
         <p>Full Stack Web Developer experienced in creating mobile applications and websites.</p>
         
-        {/* <LinkedInIcon />
-        <EmailIcon />
-        <GitHubIcon /> */}
       </div>
     </div>
     <div className="skills">
@@ -25,19 +19,19 @@ export default function Home() {
       <li className="item">
         <h2> Front-End</h2>
         <span>
-          HTML, CSS, JavaScript, API's, JQuery, JSON.
+          HTML, CSS, JavaScript, JSON, API's, JQuery.
         </span>
       </li>
       <li className="item">
         <h2>Back-End</h2>
         <span>
-          NodeJS, ExpressJS, MySQL, MongoDB, Sequelize.
+        ExpressJS, NodeJS, MySQL, MongoDB, Sequelize.
         </span>
       </li>
       <li className="item">
         <h2>Languages</h2>
         <span>
-          JavaScript, HTML, CSS, Ruby.
+         HTML, CSS, JavaScript, Ruby.
         </span>
       </li>
       </ol>

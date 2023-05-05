@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function About() {
-  return (
+export default function Bio() {
+  return ( //added a paragraph about me.
     <div>
       <h1>About Me</h1>
       <p>

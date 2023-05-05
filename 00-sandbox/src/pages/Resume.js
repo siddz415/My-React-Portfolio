@@ -1,8 +1,8 @@
 import React from "react";
 import '../styles/Resume.css';
 
-function Resume() {
-    return (
+export default function myResume() {
+    return ( // added link to my resume in an a tag
         <div className="resume-container">
             <h1 className="title">Resume</h1>
 
@@ -10,5 +10,3 @@ function Resume() {
         </div>
     )
 }
-
-export default Resume;

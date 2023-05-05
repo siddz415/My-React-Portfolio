@@ -4,8 +4,8 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 import "../styles/Footer.css";
 
-function Footer() {
-    return (
+export default function myFooter() {
+    return ( //adding a tags to the icons for the url
         <div className="footer">
             <div className="media">
             <a href="https://github.com/siddz415"><GitHubIcon/></a>
@@ -16,4 +16,3 @@ function Footer() {
     )
 }
 
-export default Footer;
