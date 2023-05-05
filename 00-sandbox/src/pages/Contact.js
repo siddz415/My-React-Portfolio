@@ -44,7 +44,7 @@ function Contact() {
   }
 
   const handleChange = (e) => {
-    if (e.target.name === 'email') {
+    if (e.target.name === 'email') { // this has to same as form name
       const isValid = validateEmail(e.target.value);
       if (!isValid) {
         setErrorMessage('Email is invalid')
@@ -84,15 +84,15 @@ function Contact() {
     <Form id='contact-form' onSubmit ={handleSubmit}>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
       <Form.Label>Name</Form.Label>
-      <Form.Control type="text" name='Name' defaultValue={name} onBlur={handleChange} />
+      <Form.Control type="text" name='name' defaultValue={name} onBlur={handleChange} />
     </Form.Group>
     <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
       <Form.Label>Email address</Form.Label>
-      <Form.Control type="email" name='Email' defaultValue={email} onBlur={handleChange} placeholder="name@example.com" />
+      <Form.Control type="email" name='email' defaultValue={email} onBlur={handleChange} placeholder="name@example.com" />
     </Form.Group>
     <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
       <Form.Label>Message</Form.Label>
-      <Form.Control as="textarea" name='Message' defaultValue={message} onBlur={handleChange}/>
+      <Form.Control as="textarea" name='message' defaultValue={message} onBlur={handleChange}/>
     </Form.Group>
     <Button variant="primary" type="submit" className='btn'>
         Submit
