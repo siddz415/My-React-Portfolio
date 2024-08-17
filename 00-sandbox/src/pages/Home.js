@@ -19,19 +19,19 @@ export default function myHome() {
       <li className="item">
         <h2> Front-End</h2>
         <span>
-          HTML, CSS, JavaScript, JSON, API's, JQuery.
+          HTML, CSS, JavaScript, React, API's, JQuery.
         </span>
       </li>
       <li className="item">
         <h2>Back-End</h2>
         <span>
-        ExpressJS, NodeJS, MySQL, MongoDB, Sequelize.
+        ExpressJS, NodeJS, MySQL, MongoDB, Flask, Python.
         </span>
       </li>
       <li className="item">
         <h2>Languages</h2>
         <span>
-         HTML, CSS, JavaScript, Ruby.
+         HTML, CSS, JavaScript, Python, Typescript.
         </span>
       </li>
       </ol>
