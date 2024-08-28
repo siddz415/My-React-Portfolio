@@ -24,4 +24,4 @@ A React Portfolio containing all my projects, skills and it also has link to dow
 ### links
 # github
 # https://github.com/siddz415/My-React-Portfolio
-# https://siddz415.github.io/My-React-Portfolio/
+# siddharthdravid.com
