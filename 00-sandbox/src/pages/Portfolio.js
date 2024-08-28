@@ -14,7 +14,6 @@ import '../styles/Portfolio.css';
 export default function myPortfolio() {
   return (
     <div className='portfolio'>
-      <h1>My Portfolio</h1>
       <div className='portfolioList'>
       <PortfolioItems name="Chat-with-MySql" image={SQL} url="https://github.com/siddz415/Chat-with-MySql-Openai" /> 
       <PortfolioItems name="Langchain-RAG" image={Rag} url="https://github.com/siddz415/Langchain-RAG" /> 
