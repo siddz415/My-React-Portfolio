@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.929490c9.css",
-    "main.js": "/My-React-Portfolio/static/js/main.8329b5a1.js",
-    "static/media/gamesrus.png": "/My-React-Portfolio/static/media/gamesrus.02793a8d1dd3796a7571.png",
-    "static/media/portfolio.png": "/My-React-Portfolio/static/media/portfolio.2139f6ce2a47ac8f3ea4.png",
-    "static/media/turnup.png": "/My-React-Portfolio/static/media/turnup.c0d3e4c1dc9fc24ec9fa.png",
-    "static/media/spiral.jpg": "/My-React-Portfolio/static/media/spiral.91d48d151d23a4e85698.jpg",
-    "static/media/myPic.png": "/My-React-Portfolio/static/media/myPic.579b6086e437cd421561.png",
-    "static/media/rag.png": "/My-React-Portfolio/static/media/rag.f4460df741da7052efa6.png",
-    "static/media/workday.png": "/My-React-Portfolio/static/media/workday.98a4ea23da0e7e0a5eff.png",
-    "static/media/sql.png": "/My-React-Portfolio/static/media/sql.bdb357ab76db0a94e5e8.png",
-    "static/media/quiz.png": "/My-React-Portfolio/static/media/quiz.41ea3cdff4608f3d650b.png",
-    "static/media/pass.png": "/My-React-Portfolio/static/media/pass.82975780efec61092397.png",
-    "index.html": "/My-React-Portfolio/index.html",
-    "main.929490c9.css.map": "/My-React-Portfolio/static/css/main.929490c9.css.map",
-    "main.8329b5a1.js.map": "/My-React-Portfolio/static/js/main.8329b5a1.js.map"
+    "main.css": "/static/css/main.929490c9.css",
+    "main.js": "/static/js/main.7ee612fe.js",
+    "static/media/gamesrus.png": "/static/media/gamesrus.02793a8d1dd3796a7571.png",
+    "static/media/portfolio.png": "/static/media/portfolio.2139f6ce2a47ac8f3ea4.png",
+    "static/media/turnup.png": "/static/media/turnup.c0d3e4c1dc9fc24ec9fa.png",
+    "static/media/spiral.jpg": "/static/media/spiral.91d48d151d23a4e85698.jpg",
+    "static/media/myPic.png": "/static/media/myPic.579b6086e437cd421561.png",
+    "static/media/rag.png": "/static/media/rag.f4460df741da7052efa6.png",
+    "static/media/workday.png": "/static/media/workday.98a4ea23da0e7e0a5eff.png",
+    "static/media/sql.png": "/static/media/sql.bdb357ab76db0a94e5e8.png",
+    "static/media/quiz.png": "/static/media/quiz.41ea3cdff4608f3d650b.png",
+    "static/media/pass.png": "/static/media/pass.82975780efec61092397.png",
+    "index.html": "/index.html",
+    "main.929490c9.css.map": "/static/css/main.929490c9.css.map",
+    "main.7ee612fe.js.map": "/static/js/main.7ee612fe.js.map"
   },
   "entrypoints": [
     "static/css/main.929490c9.css",
-    "static/js/main.8329b5a1.js"
+    "static/js/main.7ee612fe.js"
   ]
 }
